@@ -2,7 +2,7 @@
 
 My background is in technical writing, content strategy, and social science research. I studied accessibility politics in design and qualitative/quantitative research in cultural anthropology. 
 
-I'm an empathetic, technical, and UX writer interested in accessibility and localization. 
+I'm an empathetic, technical writer interested in accessibility and localization. 
 
 **UX Content Strategy**
 
