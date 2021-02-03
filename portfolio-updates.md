@@ -12,10 +12,11 @@
 
 ## 1.0.0 - February 1, 2021
 
-### Added
+### Changes
 
 * Added an introduction page and forked the Gitbook repository from GitHub.
 * Created basic tabs under the Portfolio section and updated the Introduction.
+* Integrated Gitbook with GitHub and successfully merged my first edit.
 
 
 

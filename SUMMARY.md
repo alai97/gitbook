@@ -2,13 +2,15 @@
 
 * [Introduction](README.md)
 
-## Portfolio <a id="portfolio-1"></a>
+## About Me
 
-* [Portfolio](portfolio-1/portfolio/README.md)
-  * [Technical Writing](portfolio-1/portfolio/technical-writing.md)
-  * [UX Writing](portfolio-1/portfolio/ux-writing.md)
-  * [Content Strategy](portfolio-1/portfolio/content-strategy.md)
-  * [Video Production](portfolio-1/portfolio/video-production.md)
+* [Portfolio](about-me/portfolio/README.md)
+  * [Technical Writing](about-me/portfolio/technical-writing.md)
+  * [UX Writing](about-me/portfolio/ux-writing.md)
+  * [Content Strategy](about-me/portfolio/content-strategy.md)
+  * [Video Production](about-me/portfolio/video-production.md)
+  * [User Research](about-me/portfolio/user-research.md)
+  * [Copywriting](about-me/portfolio/copywriting.md)
 
 ---
 
@@ -16,5 +18,8 @@
 
 ## Interests
 
-* [Untitled](interests/untitled.md)
+* [Agile Design & Development](interests/agile-design-and-development.md)
+* [Diversity & Inclusion](interests/diversity-and-inclusion.md)
+* [Mentoring](interests/untitled.md)
+* [Writing & Editing](interests/writing-and-editing.md)
 
