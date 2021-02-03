@@ -1,6 +1,8 @@
 # Portfolio
 
-My background is in technical writing, content strategy, and social science research. I studied accessibility politics in design and am passionate about accessibility and localization. 
+My background is in technical writing, content strategy, and social science research. I studied accessibility politics in design and qualitative/quantitative research in cultural anthropology. 
+
+I'm an empathetic, technical, and UX writer interested in accessibility and localization. 
 
 **UX Writing**
 
