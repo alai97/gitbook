@@ -4,11 +4,15 @@ My background is in technical writing, content strategy, and social science rese
 
 I'm an empathetic, technical, and UX writer interested in accessibility and localization. 
 
-**UX Writing**
+**UX Content Strategy**
+
+Vinebase
 
 2020 - present
 
 **Technical Writing**
+
+AppDynamics
 
 2020 - present
 
@@ -16,9 +20,13 @@ I'm an empathetic, technical, and UX writer interested in accessibility and loca
 
 **Copywriting**
 
+Vinebase/AppDynamics
+
 2017 - present
 
 **User Research**
+
+AppDynamics
 
 2019 - present
 
