@@ -15,6 +15,7 @@
 ### Added
 
 * Added an introduction page and forked the Gitbook repository from GitHub.
+* Created basic tabs under the Portfolio section and updated the Introduction.
 
 
 
