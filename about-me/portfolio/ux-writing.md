@@ -1,16 +1,24 @@
+---
+description: 'Tools: Abstract, inVision, Sketch, Figma, Balsamiq, and Whimsical.'
+---
+
 # UX Writing
 
-AppDynamics
+**AppDynamics**
 
 * UI Content \(including instructional text, dialogue boxes, and microcopy\), UI Engineering Bugs 
 
-![Application Analytics Popup Box](../../.gitbook/assets/whats-new-in-analytics-popup.png)
+![Application Analytics Dialogue Box](../../.gitbook/assets/whats-new-in-analytics-popup-bordered.png)
+
+Vinebase
 
 Mockup Comments in Sketch
 
 Cisco API Console
 
+Before and After
 
+Side-by-side Comparison
 
 **UChicago Admissions**
 
