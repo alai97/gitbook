@@ -10,6 +10,15 @@
 
 * Animals are now super cute, all of them.
 
+
+
+## 1.0.1 - February 3, 2021
+
+### Changes
+
+* Added colors and images in several pages.
+* Created a table in the Portfolio page.
+
 ## 1.0.0 - February 1, 2021
 
 ### Changes
