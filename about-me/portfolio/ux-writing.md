@@ -1,6 +1,6 @@
 # UX Writing
 
-AppDynamics Analytics
+AppDynamics
 
 * UI Content \(including instructional text, dialogue boxes, and microcopy\), UI Engineering Bugs 
 
