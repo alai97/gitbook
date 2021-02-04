@@ -11,6 +11,7 @@ I'm an empathetic technical, UX writer interested in accessibility and localizat
 | UX Writing | AppDynamics | 2020 - present \(1 year\) |
 | Copywriting | AppDynamics, Vinebase, UChicago Admissions | 2018 - present \(3 years\) |
 | User Research | AppDynamics, Cisco | 2019 - present \(2 years\) |
+| Video Production | Fire Escape Films, Spoon University, UChicago Admissions | 2016 - 2019 \(3 years\) |
 
 ![University of Chicago, Hyde Park IL](../../.gitbook/assets/uchicago_winter_snowygothic.png)
 
