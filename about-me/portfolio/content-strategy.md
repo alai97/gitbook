@@ -1,10 +1,12 @@
-# Content Strategy
+---
+description: 'Tools: Confluence, Particle, Google Docs, and Google Sheets.'
+---
 
-Wireframes in Balsamiq
+# Content Strategy
 
 UChicago Admissions
 
-
+* Proposals for future blog posts.
 
 UX Writing Style Guide
 

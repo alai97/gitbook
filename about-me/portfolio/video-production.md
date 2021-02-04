@@ -1,3 +1,7 @@
+---
+description: 'Tools: Adobe Premiere Pro, Youtube, and Google Docs.'
+---
+
 # Video Production
 
 UChicago Admissions
