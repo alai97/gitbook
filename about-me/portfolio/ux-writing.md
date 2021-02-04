@@ -10,7 +10,7 @@ description: 'Tools: Abstract, inVision, Sketch, Figma, Balsamiq, and Whimsical.
 
 ![Application Analytics Dialogue Box](../../.gitbook/assets/whats-new-in-analytics-popup-bordered.png)
 
-Vinebase
+**Vinebase**
 
 Mockup Comments in Sketch
 
