@@ -2,7 +2,9 @@
 
 AppDynamics Analytics
 
-UI Content
+* UI Content \(including instructional text, dialogue boxes, and microcopy\), UI Engineering Bugs 
+
+![Application Analytics Popup Box](../../.gitbook/assets/whats-new-in-analytics-popup.png)
 
 Mockup Comments in Sketch
 
@@ -14,7 +16,7 @@ Cisco API Console
 
 ![Uncommon Blog Wireframe](../../.gitbook/assets/image%20%281%29.png)
 
-![Admitted Student Portal Wireframe](../../.gitbook/assets/image.png)
+![Admitted Students Portal Wireframe](../../.gitbook/assets/image.png)
 
 
 
