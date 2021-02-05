@@ -22,6 +22,8 @@ description: >-
 
 ![Cisco Office 365 Help Center](../../.gitbook/assets/o365-help-center-look-bordered.png)
 
+![Borderless Access Error Message](../../.gitbook/assets/access-denied-error.png)
+
 {% file src="../../.gitbook/assets/sharepoint-at-cisco-quick-start-guide.pptx" caption="Using SharePoint at Cisco Quick Start Guide" %}
 
 **Salesforce**
