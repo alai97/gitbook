@@ -12,23 +12,49 @@ description: 'Tools: Abstract, inVision, Sketch, Figma, Balsamiq, and Whimsical.
 
 **Vinebase**
 
-Mockup Comments in Sketch
+![Initial User Gate Mockup](../../.gitbook/assets/new-user-gate-screen-edit-1-bordered.png)
 
-Cisco API Console
+{% hint style="info" %}
+New User Gate Brainstorm
 
-Before and After
+I designed the initial mockup and wrote the popover copy for the New User Gate. The user gate is the first screen that a new user sees when they visit Vinebase. It's important that we communicate our company mantra, validate the user's age \(21 years old or older\), and verify the user's shipping location \(Vinebase currently only ships to California\).
+{% endhint %}
 
-Side-by-side Comparison
+![User Gate: Age Denied](../../.gitbook/assets/new-user-gate-screen-edit-2-bordered.png)
+
+{% hint style="danger" %}
+New User Gate Age Verification
+
+I designed this mockup and wrote the microcopy for this error message. If a potential user under 21 years of age visits Vinebase, they are not legally allowed to buy alcohol. 
+{% endhint %}
+
+![User Gate: Shipping Location Unavailable](../../.gitbook/assets/new-user-gate-screen-edit-4-bordered.png)
+
+{% hint style="warning" %}
+New User Gate Shipping Location
+
+I designed this mockup and wrote the microcopy for this error message. If a potential user outside of California visits Vinebase, Vinebase is unable to process their orders \(until domestic shipping becomes available\). 
+{% endhint %}
+
+![New User Gate](../../.gitbook/assets/vinebase-user-gate-bordered.png)
+
+{% hint style="success" %}
+Official New User Gate
+
+After reviewing the mockups with Product Design and Engineering, we designed a clean, colorful dialogue box to verify a new user's shipping location and age.
+{% endhint %}
+
+**Cisco**
+
+![Borderless Access Error Message](../../.gitbook/assets/access-denied-error.png)
+
+![Cisco API Console](../../.gitbook/assets/cisco-api-console-after-bordered.png)
 
 **UChicago Admissions**
 
 ![Uncommon Blog Wireframe](../../.gitbook/assets/image%20%281%29.png)
 
 ![Admitted Students Portal Wireframe](../../.gitbook/assets/image.png)
-
-
-
-{% file src="../../.gitbook/assets/uncommon-blog-redesign \(1\).pdf" caption="Uncommon Blog" %}
 
 
 

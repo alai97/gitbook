@@ -12,6 +12,8 @@ description: >-
 * SDK Documentation
 * Release Notes
 
+![Custom Application-Level Permissions](../../.gitbook/assets/customize-permissions-tier-bordered.png)
+
 ![Maintenance Support for Software Versions](../../.gitbook/assets/maintenance-support-for-software-versions-bordered.png)
 
 **Cisco**
@@ -21,8 +23,6 @@ description: >-
 * New Hire Onboarding Guides
 
 ![Cisco Office 365 Help Center](../../.gitbook/assets/o365-help-center-look-bordered.png)
-
-![Borderless Access Error Message](../../.gitbook/assets/access-denied-error.png)
 
 {% file src="../../.gitbook/assets/sharepoint-at-cisco-quick-start-guide.pptx" caption="Using SharePoint at Cisco Quick Start Guide" %}
 
