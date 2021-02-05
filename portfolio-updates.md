@@ -18,7 +18,7 @@
 
 * Updated the UX Writing page with images, files, and hints.
 * Updated the Introduction page to include my favorite candle and bookstore in San Francisco.
-* Incorporated a little bit more personality and flavor to the writing. I plan on adding more content about food soon.
+* Incorporated a little bit more personality and flavor to my writing. I plan on adding food content soon.
 
 ## 1.0.1 - February 3, 2021
 
