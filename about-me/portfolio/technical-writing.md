@@ -16,10 +16,11 @@ description: >-
 
 ![Maintenance Support for Software Versions](../../.gitbook/assets/maintenance-support-for-software-versions-bordered.png)
 
+![Support Advisory: Windows Server 2008 and R2](../../.gitbook/assets/support-advisory-bordered.png)
+
 **Cisco**
 
-* Office 365 Help Center
-* Knowledge Base Articles, Email Communications, FAQs
+* Borderless Access FAQs
 * New Hire Onboarding Guides
 
 ![Cisco Office 365 Help Center](../../.gitbook/assets/o365-help-center-look-bordered.png)
