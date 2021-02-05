@@ -10,6 +10,8 @@ description: 'Tools: Abstract, inVision, Sketch, Figma, Balsamiq, and Whimsical.
 
 ![Application Analytics Dialogue Box](../../.gitbook/assets/whats-new-in-analytics-popup-bordered.png)
 
+![UI Copy Bug Ticket](../../.gitbook/assets/ui-engineering-bugs-bordered.png)
+
 **Vinebase**
 
 ![Initial User Gate Mockup](../../.gitbook/assets/new-user-gate-screen-edit-1-bordered.png)

@@ -32,5 +32,7 @@ description: >-
 * Knowledge Base Articles
 * Site Reliability Engineering Event/Incident Management Playbook
 
+![Salesforce Knowledge Base Article](../../.gitbook/assets/sample-gus-kb-article-bordered.png)
 
+{% file src="../../.gitbook/assets/site-reliability-engineering-center-brochure.pdf" caption="Site Reliability Engineering Center Brochure" %}
 

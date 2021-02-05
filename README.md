@@ -6,9 +6,13 @@ I'm a technical writer, UX content strategist, and content designer living in Sa
 
 Since graduating [college](https://collegeadmissions.uchicago.edu/uncommon-blog/adulting-in-college) and returning to the Bay Area after culinary school in London, I've enjoyed recipe testing, aromatherapy, and gardening in my apartment in the Lower Haight. 
 
-I love candles and house plants -- my snake plant recently propagated a new baby! Prior to quarantine, you could find me at Arizmendi Bakery, Dolores Park, or Barry's in the Castro. 
+I love candles, house plants, and wine -- my favorite candle right now is [Grapefruit + Mangosteen](https://www.basikcandle.com/collections/candles/products/grapefruit-mangosteen-candle) from Basik, a small San Francisco producer. I recently found out that my snake plant propagated a new baby and realized that my mini-fridge is the perfect place to chill sparkling and white wines!  
+
+Prior to quarantine, you could find me at Arizmendi Bakery, Omnivore Bookstore, or Barry's in Castro. 
 
 ![Flowercraft, San Francisco CA](.gitbook/assets/photo-2.jpg)
 
-You can reach out to me at &lt;austinlai.97@gmail.com&gt; or find me on [GitHub](https://github.com/alai97) and [LinkedIn](https://www.linkedin.com/in/austin-lai/). 
+You can contact me at &lt;austinlai.97@gmail.com&gt; or find me on [GitHub](https://github.com/alai97) and [LinkedIn](https://www.linkedin.com/in/austin-lai/). 
+
+{% file src=".gitbook/assets/austin-lai-spring-resume-2021 \(1\).pdf" caption="My Resume" %}
 

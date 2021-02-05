@@ -12,6 +12,14 @@
 
 
 
+## 1.0.2 - February 4, 2021
+
+### Changes
+
+* Updated the UX Writing page with images, files, and hints.
+* Updated the Introduction page to include my favorite candle and bookstore in San Francisco.
+* Incorporated a little bit more personality and flavor to the writing. I plan on adding more content about food soon.
+
 ## 1.0.1 - February 3, 2021
 
 ### Changes

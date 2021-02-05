@@ -1,7 +1,5 @@
 ---
-description: >-
-  Tools: Microsoft Word, Google Docs, Oracle Eloqua, and Salesforce Email
-  Studio.
+description: 'Tools: Grammarly, Microsoft Word, and Google Docs.'
 ---
 
 # Copywriting
