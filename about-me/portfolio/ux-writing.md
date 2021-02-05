@@ -8,6 +8,8 @@ description: >-
 
 **AppDynamics**
 
+{% embed url="https://docs.google.com/document/d/1EbFG8IJph-QfLedKZDoRVPce0ZDkysRjZMmSIDmdfKk/edit?usp=sharing" caption="UX Writing Style Guide: Capitalization" %}
+
 ![Application Analytics Dialogue Box](../../.gitbook/assets/whats-new-in-analytics-popup-bordered.png)
 
 ![UI Copy Bug Ticket](../../.gitbook/assets/ui-engineering-bugs-bordered.png)
