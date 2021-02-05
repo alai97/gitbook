@@ -1,18 +1,22 @@
 ---
-description: 'Tools: Abstract, inVision, Sketch, Figma, Balsamiq, and Whimsical.'
+description: >-
+  Tools: Jira, Google Docs, Abstract, inVision, Sketch, Figma, Balsamiq, and
+  Whimsical.
 ---
 
 # UX Writing
 
 **AppDynamics**
 
-* UI Content \(including instructional text, dialogue boxes, and microcopy\), UI Engineering Bugs 
-
 ![Application Analytics Dialogue Box](../../.gitbook/assets/whats-new-in-analytics-popup-bordered.png)
 
 ![UI Copy Bug Ticket](../../.gitbook/assets/ui-engineering-bugs-bordered.png)
 
 **Vinebase**
+
+{% embed url="https://coda.io/d/Vinebase-Brand-Design-Guidelines\_dVPpbk60UjK/Voice-and-Tone\_suSr5\#\_luKAK" caption="Vinebase Voice and Tone Style Guide" %}
+
+![Vinebase Checkout UX Feedback](../../.gitbook/assets/vinebase-order-complete-feedback.png)
 
 ![Initial User Gate Mockup](../../.gitbook/assets/new-user-gate-screen-edit-1-bordered.png)
 
