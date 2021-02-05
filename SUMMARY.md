@@ -10,6 +10,7 @@
   * [Content Strategy](about-me/portfolio/content-strategy.md)
   * [Video Production](about-me/portfolio/video-production.md)
   * [User Research](about-me/portfolio/user-research.md)
+  * [Email Communications](about-me/portfolio/email-communications.md)
   * [Copywriting](about-me/portfolio/copywriting.md)
 
 ---
