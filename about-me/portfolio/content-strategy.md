@@ -8,8 +8,6 @@ UChicago Admissions
 
 * Proposals for future blog posts.
 
-UX Writing Style Guide
-
 Strapi in Particle
 
 

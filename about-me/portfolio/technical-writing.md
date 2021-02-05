@@ -8,9 +8,8 @@ description: >-
 
 **AppDynamics**
 
-* Doc Services
+* Doc Services \(Accessibility, Doc QA, User Feedback\)
 * SDK Documentation
-* Release Notes
 
 ![Custom Application-Level Permissions](../../.gitbook/assets/customize-permissions-tier-bordered.png)
 

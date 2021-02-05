@@ -1,16 +1,11 @@
 # Portfolio Updates
 
-## 15.0.0 - 2042-12-03
+## 1.0.3 - February 5, 2021
 
-### Fixed
+### **Changes**
 
-* Removed humans, they weren't doing fine with animals.
-
-### Changed
-
-* Animals are now super cute, all of them.
-
-
+* Breathed in gratitude and exhaled doubt.
+* Added style guides to the UX Writing page and updated this changelog.
 
 ## 1.0.2 - February 4, 2021
 
