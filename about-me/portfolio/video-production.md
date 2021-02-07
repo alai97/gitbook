@@ -1,7 +1,7 @@
 ---
 description: >-
-  Tools: Adobe Premiere Pro, Final Cut Pro, Microsoft Excel, YouTube, and Google
-  Docs.
+  Tools: Adobe Premiere Pro, Final Cut Pro, Microsoft Excel, Microsoft Word,
+  YouTube, and Google Docs.
 ---
 
 # Video Production

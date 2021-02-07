@@ -64,5 +64,7 @@ After reviewing the mockups with Product Design and Engineering, we designed a c
 
 ![Admitted Students Portal Wireframe](../../.gitbook/assets/image.png)
 
+**Application Development**
 
+![Bathrooms of UChicago Wireframe](../../.gitbook/assets/bathrooms-of-uchicago.png)
 
