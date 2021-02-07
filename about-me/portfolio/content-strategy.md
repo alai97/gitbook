@@ -4,11 +4,13 @@ description: 'Tools: Confluence, Particle, Google Docs, and Google Sheets.'
 
 # Content Strategy
 
-UChicago Admissions
+Accessibility
 
-* Proposals for future blog posts.
+Alt Text
 
-Strapi in Particle
+Absolute URLs
+
+**AppDynamics**
 
 
 

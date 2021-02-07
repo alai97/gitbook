@@ -12,7 +12,11 @@ description: >-
 
 **Cisco**
 
-\*\*\*\*
+![SharePoint Site Request Approved](../../.gitbook/assets/sharepoint-provisioning-email-accepted.png)
+
+![SharePoint Site Request Denied](../../.gitbook/assets/sharepoint-provisioning-email-rejected.png)
+
+![SharePoint Site Request More Information Required](../../.gitbook/assets/sharepoint-provisioning-email-revision.png)
 
 **Salesforce**
 
