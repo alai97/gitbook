@@ -8,7 +8,7 @@ Today, I'm a technical/UX writer writing product documentation and UI content at
 | :--- | :--- | :--- |
 | UX Content Strategy | Cisco, Vinebase, UChicago Admissions | 2018 - present \(3 years\) |
 | Technical Writing | AppDynamics, Cisco, Salesforce | 2017 - present \(4 years\) |
-| UX Writing | AppDynamics | 2020 - present \(1 year\) |
+| UX Writing | AppDynamics, Vinebase | 2020 - present \(1 year\) |
 | Copywriting | AppDynamics, Vinebase, UChicago Admissions | 2018 - present \(3 years\) |
 | User Research | AppDynamics, Cisco | 2019 - present \(2 years\) |
 | Video Production | Fire Escape Films, Spoon University, UChicago Admissions | 2016 - 2019 \(3 years\) |
