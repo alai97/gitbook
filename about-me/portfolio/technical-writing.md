@@ -9,7 +9,8 @@ description: >-
 **AppDynamics**
 
 * Doc Services \(Accessibility, Doc QA, User Feedback\)
-* SDK Documentation
+
+![Auto-generate SDK Documentation with Doxygen](../../.gitbook/assets/sdk-documentation-in-doxygen-bordered.png)
 
 ![Custom Application-Level Permissions](../../.gitbook/assets/customize-permissions-tier-bordered.png)
 
