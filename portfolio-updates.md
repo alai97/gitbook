@@ -1,5 +1,12 @@
 # Portfolio Updates
 
+## 1.0.4 - February 8, 2021
+
+### **Changes**
+
+* Woke up this morning to the smell of pollen and my nose immediately started running. 
+* Updated the Remote Onboarding page with relevant technical writing experiences. 
+
 ## 1.0.3 - February 5, 2021
 
 ### **Changes**
