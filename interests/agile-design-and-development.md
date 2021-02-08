@@ -1,4 +1,4 @@
-# Agile Design & Development
+# Consistency Editing & Review
 
 Peer Review Checklist \(proofreading + substantive editing\)
 
