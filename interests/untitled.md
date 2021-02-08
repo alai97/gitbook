@@ -10,6 +10,10 @@ Since two new hires on the Information Development team started in November 2020
 
 My first day at Cisco AppDynamics was March 23, the week San Francisco went on lockdown. I was the first technical writer in the Information Development team to onboard remotely and luckily, I had my computer and phone already configured with Cisco identity and device management services. I set up weekly check-ins with my manager and technical writing mentor, who walked me through the New Writer's Checklist, trainings, and my first major product release!
 
+* I formatted the New Writer's Checklist into an actual checklist with macros in Confluence, updated the content to reflect a work-from-home onboarding experience, and fixed broken images/links.
+* I conducted a consistency review across several doc sets with a checklist of topics from the Docs Style Guide and piloted a peer review process per product release.
+* I published release notes, updated product documentation, and closed out release tickets in July! 
+
 **Cisco**
 
 #### **2019**
