@@ -21,6 +21,5 @@
 
 * [Agile Design & Development](interests/agile-design-and-development.md)
 * [Diversity & Inclusion](interests/diversity-and-inclusion.md)
-* [Onboarding & Mentoring](interests/untitled.md)
-* [Writing & Editing](interests/writing-and-editing.md)
+* [Onboarding & Remote Working](interests/untitled.md)
 
