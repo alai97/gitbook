@@ -6,6 +6,10 @@
 
 Since two new hires on the Information Development team started in November 2020, I have been mentoring these individuals by scheduling weekly check-ins, troubleshooting questions about the New Writer's Checklist, and hosting trainings on Confluence, Jira, Snagit, Outlook, and Zendesk.
 
+* I write documentation plans and transition docs for new writers.
+
+![Application Analytics Transition Plan](../.gitbook/assets/transition-plan-bordered.png)
+
 #### 2020
 
 My first day at Cisco AppDynamics was March 23, the week San Francisco went on lockdown. I was the first technical writer in the Information Development team to onboard remotely and luckily, I had my computer and phone already configured with Cisco identity and device management services. I set up weekly check-ins with my manager and technical writing mentor, who walked me through the New Writer's Checklist, trainings, and my first major product release!
