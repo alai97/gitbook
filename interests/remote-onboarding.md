@@ -7,6 +7,7 @@
 Since two new hires on the Information Development team started in November 2020, I have been mentoring these individuals by scheduling weekly check-ins, troubleshooting questions about the New Writer's Checklist, and hosting trainings on Confluence, Jira, Snagit, Outlook, and Zendesk.
 
 * I write documentation plans and transition docs for new writers.
+* I guide new writers through release notes and resolved issues.
 
 ![Application Analytics Transition Plan](../.gitbook/assets/transition-plan-bordered.png)
 
