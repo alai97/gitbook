@@ -10,6 +10,8 @@ description: >-
 
 * Doc Services \(Accessibility, Doc QA, User Feedback\)
 
+![npm: AppDynamics Node.js Agent](../../.gitbook/assets/npm-node.js-agent-bordered.png)
+
 ![Auto-generate SDK Documentation with Doxygen](../../.gitbook/assets/sdk-documentation-in-doxygen-bordered.png)
 
 ![Custom Application-Level Permissions](../../.gitbook/assets/customize-permissions-tier-bordered.png)
