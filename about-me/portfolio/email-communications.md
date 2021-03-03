@@ -6,6 +6,8 @@ description: >-
 
 # Email Communications
 
+**UChicago Bay Area Alumni**
+
 **Vinebase**
 
 {% embed url="https://coda.io/d/Vinebase-Brand-Design-Guidelines\_dVPpbk60UjK/Email-Communications\_su6GP\#\_luX6J" caption="Vinebase Email Communications Style Guide" %}
