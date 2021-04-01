@@ -8,7 +8,8 @@ description: >-
 
 **AppDynamics**
 
-* Doc Services \(Accessibility, Doc QA, User Feedback\)
+* Doc Services \(Accessibility Lead, Doc QA Editor, User Feedback Lead\)
+* Internal Documentation \(Disaster Recovery Communications, Particle Style Guide\)
 
 ![npm: AppDynamics Node.js Agent](../../.gitbook/assets/npm-node.js-agent-bordered.png)
 
