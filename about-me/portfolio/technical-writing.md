@@ -24,7 +24,8 @@ description: >-
 **Cisco**
 
 * Borderless Access FAQs
-* New Hire Onboarding Guides
+* Remote New Hire Onboarding Guides
+* Community Migration of HCL to SharePoint
 
 ![Cisco Office 365 Help Center](../../.gitbook/assets/o365-help-center-look-bordered.png)
 
@@ -32,7 +33,7 @@ description: >-
 
 **Salesforce**
 
-* Site Reliability Engineering Event/Incident Management Playbook
+* Incident and Event Management Playbook for Site Reliability Engineering 
 
 ![Salesforce Knowledge Base Article](../../.gitbook/assets/sample-gus-kb-article-bordered.png)
 
