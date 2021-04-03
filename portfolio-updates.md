@@ -6,7 +6,7 @@
 
 ### **Changes**
 
-* The roses are blooming outside my window, which is amazing.
+* Roses are blooming outside my window in my neighbor's garden.
 * Updated the Content Strategy page with relevant content strategy experiences. 
 
 ## 1.0.4 - February 8, 2021
