@@ -1,5 +1,14 @@
 # Portfolio Updates
 
+## 
+
+## 1.0.5 - April 1, 2021
+
+### **Changes**
+
+* The roses are blooming outside my window, which is amazing.
+* Updated the Content Strategy page with relevant content strategy experiences. 
+
 ## 1.0.4 - February 8, 2021
 
 ### **Changes**
