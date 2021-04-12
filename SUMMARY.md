@@ -19,7 +19,7 @@
 
 ## Interests
 
-* [Consistency Editing & Review](interests/agile-design-and-development.md)
+* [Consistency Editing](interests/agile-design-and-development.md)
 * [Diversity & Inclusion](interests/diversity-and-inclusion.md)
 * [Remote Onboarding](interests/remote-onboarding.md)
 

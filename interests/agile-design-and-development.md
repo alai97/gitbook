@@ -1,4 +1,4 @@
-# Consistency Editing & Review
+# Consistency Editing
 
 **AppDynamics**
 
