@@ -8,6 +8,7 @@ description: >-
 
 **AppDynamics**
 
+* [C/C++ SDK Reference Docs](https://sdkdocs.appdynamics.com/javadocs/cpp-sdk/21.3/html/)
 * Doc Services \(Accessibility Lead, Doc QA Editor, User Feedback Lead\)
 * Internal Documentation \(Disaster Recovery Communications, Particle Style Guide\)
 
