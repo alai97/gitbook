@@ -2,6 +2,13 @@
 
 ## 
 
+## 1.0.5 - April 30, 2021
+
+### **Changes**
+
+* Fixed reference link to auto-generated SDK docs.
+* Added a link to the UChicago Bay Area Alumni Club.
+
 ## 1.0.5 - April 1, 2021
 
 ### **Changes**
