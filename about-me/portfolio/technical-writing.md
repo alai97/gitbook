@@ -10,7 +10,7 @@ description: >-
 
 * [C/C++ SDK Reference Docs](https://sdkdocs.appdynamics.com/cpp-sdk/21.3/html/)
 * Doc Services \(Accessibility Lead, Doc QA Editor, User Feedback Lead\)
-* Internal Documentation \(Disaster Recovery Communications, Particle Style Guide\)
+* Internal Documentation \(AppDynamics GovAPM User Guide, Disaster Recovery Communications\)
 
 ![npm: AppDynamics Node.js Agent](../../.gitbook/assets/npm-node.js-agent-bordered.png)
 
