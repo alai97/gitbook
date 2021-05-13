@@ -12,3 +12,5 @@ description: 'Tools: Qualtrics, Verint, Webex Meetings, Google Docs, and Google 
 
 **Cisco**
 
+* At Cisco, I observed and transcribed user feedback sessions \(group, 1/1, usability testing\) for several IT services.
+
