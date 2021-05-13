@@ -1,13 +1,11 @@
 # Portfolio Updates
 
-## 
-
 ## 1.0.5 - April 30, 2021
 
 ### **Changes**
 
-* Fixed reference link to auto-generated SDK docs.
-* Added a link to the UChicago Bay Area Alumni Club.
+* Added C/C++ SDK reference documentation link.
+* Updated the Email Communications page with relevant communications experiences.
 
 ## 1.0.5 - April 1, 2021
 
