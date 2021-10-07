@@ -2,7 +2,7 @@
 
 Hello! My name is Austin Lai.
 
-I'm a technical writer, UX content strategist, and content designer living in San Francisco, CA. I graduated from the University of Chicago with a B.A. in Comparative Human Development. 
+I'm a technical writer, UX content strategist, and content designer living in San Francisco, CA.
 
 Since graduating [college](https://collegeadmissions.uchicago.edu/uncommon-blog/adulting-in-college) and returning to the Bay Area after culinary school in London, I've enjoyed recipe testing, aromatherapy, and gardening in my apartment in the Lower Haight. I'm also the Communications Chair for the [UChicago Alumni Club of the Bay Area](https://alumniandfriends.uchicago.edu/s/community?clubGroupName=Alumni+Club+of+the+Bay+Area) and a Contributing Member for the [UChicago Alumni Pride](https://alumniandfriends.uchicago.edu/s/community?clubGroupName=UChicago%20Alumni%20Pride) affinity group.
 

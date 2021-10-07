@@ -1,5 +1,7 @@
 # Portfolio
 
+I graduated from the University of Chicago with a B.A. in Comparative Human Development. 
+
 I am a social science researcher with industry experience in technical writing, content strategy, copywriting, user research, and web development. While learning qualitative and quantitative research methods in cultural anthropology classes, I became interested in accessibility, localization, and diversity/inclusion. 
 
 I am currently a technical writer at Datadog in San Francisco, CA. Previously, I was a technical/UX writer at Cisco AppDynamics.
