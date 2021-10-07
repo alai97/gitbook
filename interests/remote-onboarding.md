@@ -1,5 +1,15 @@
 # Remote Onboarding
 
+#### Datadog
+
+**2021**
+
+I joined the Documentation team in May 2021. I shadowed and reverse-shadowed the Docs On Call rotation program where you are the Documentation Liaison on Slack and PR Reviewer on GitHub for three days in a month. 
+
+In January, our team migrated our internal documentation from our external GitHub wiki to our Confluence space, Docs for Docs. Since then, two new members have joined the Documentation team in November 2021, and I have contributed to existing pages \(such as Writing Style\) and authored new pages \(such as Troubleshooting Local Doc Build and onboarding documentation\). 
+
+* I document tribal knowledge and explain internal processes of the Documentation team.
+
 **AppDynamics**
 
 #### 2021
