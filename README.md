@@ -2,11 +2,11 @@
 
 Hello! My name is Austin Lai.
 
-I'm a technical writer, UX content strategist, and content designer living in San Francisco, CA. I graduated from the University of Chicago with a B.A. in Comparative Human Development and moved into the city the week before quarantine \(around March 2020\). 
+I'm a technical writer, UX content strategist, and content designer living in San Francisco, CA. I graduated from the University of Chicago with a B.A. in Comparative Human Development. 
 
-Since graduating [college](https://collegeadmissions.uchicago.edu/uncommon-blog/adulting-in-college) and returning to the Bay Area after culinary school in London, I've enjoyed recipe testing, aromatherapy, and gardening in my apartment in the Lower Haight. I'm currently serving as the Communications Chair for the [UChicago Alumni Club of the Bay Area](https://alumniandfriends.uchicago.edu/s/community?clubGroupName=Alumni+Club+of+the+Bay+Area).
+Since graduating [college](https://collegeadmissions.uchicago.edu/uncommon-blog/adulting-in-college) and returning to the Bay Area after culinary school in London, I've enjoyed recipe testing, aromatherapy, and gardening in my apartment in the Lower Haight. I'm also the Communications Chair for the [UChicago Alumni Club of the Bay Area](https://alumniandfriends.uchicago.edu/s/community?clubGroupName=Alumni+Club+of+the+Bay+Area) and a Contributing Member for the [UChicago Alumni Pride](https://alumniandfriends.uchicago.edu/s/community?clubGroupName=UChicago%20Alumni%20Pride) affinity group.
 
-I love candles, house plants, and wine -- my favorite candle right now is [Grapefruit + Mangosteen](https://www.basikcandle.com/collections/candles/products/grapefruit-mangosteen-candle) from Basik, a small San Francisco producer. I'm raising a new baby snake plant and am proud to be a member of two wine clubs!  
+I love candles, house plants, and wine—my favorite candle right now is [Grapefruit + Mangosteen](https://www.basikcandle.com/collections/candles/products/grapefruit-mangosteen-candle) from Basik, a small San Francisco producer. I have a baby snake plant and dream of owning a thick-stemmed Monstera!  
 
 Prior to quarantine, you could find me at Arizmendi Bakery, Omnivore Bookstore, or Barry's in Castro. 
 

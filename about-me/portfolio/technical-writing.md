@@ -1,7 +1,8 @@
 ---
 description: >-
-  Tools: Bitbucket, GitHub, Jira, Confluence, Doxygen, Slack, Google Docs,
-  Google Sheets, Salesforce GUS, Snagit, and Camtasia.
+  Tools: Bitbucket, GitHub, GitHub Desktop, Jira, Confluence, Doxygen, Slack,
+  Google Docs, Google Sheets, Salesforce GUS, CloudApp, Snagit, Camtasia, Visual
+  Studio Code.
 ---
 
 # Technical Writing

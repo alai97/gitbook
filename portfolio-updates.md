@@ -1,5 +1,11 @@
 # Portfolio Updates
 
+## 2.0.1 - October 6, 2021
+
+### Changes
+
+* Updated my portfolio after a six months break.
+
 ## 1.0.5 - April 30, 2021
 
 ### **Changes**
