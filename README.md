@@ -8,7 +8,7 @@ Since graduating [college](https://collegeadmissions.uchicago.edu/uncommon-blog/
 
 I love candles, house plants, and wine—my favorite candle right now is [Grapefruit + Mangosteen](https://www.basikcandle.com/collections/candles/products/grapefruit-mangosteen-candle) from Basik, a small San Francisco producer. I have a baby snake plant and dream of owning a thick-stemmed Monstera!  
 
-Prior to quarantine, you could find me at Arizmendi Bakery, Omnivore Bookstore, or Barry's in Castro. 
+On the weekend, you can find me at Arizmendi Bakery, Omnivore Bookstore, or Barry's in Castro. 
 
 ![Flowercraft, San Francisco CA](.gitbook/assets/photo-2.jpg)
 
