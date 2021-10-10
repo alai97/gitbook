@@ -12,7 +12,8 @@ On the weekend, you can find me at Arizmendi Bakery, Omnivore Bookstore, or Barr
 
 ![Flowercraft, San Francisco CA](.gitbook/assets/photo-2.jpg)
 
-You can contact me at &lt;austinlai.97@gmail.com&gt; or find me on [GitHub](https://github.com/alai97) and [LinkedIn](https://www.linkedin.com/in/austin-lai/). 
+You can contact me at `austinlai.97@gmail.com` or find me on [GitHub](https://github.com/alai97) and [LinkedIn](https://www.linkedin.com/in/austin-lai/). 
 
-{% file src=".gitbook/assets/austin-lai-spring-resume-2021 \(1\).pdf" caption="My Resume" %}
-
+{% file src=".gitbook/assets/austin-lai-spring-resume-2021 (1).pdf" %}
+My Resume
+{% endfile %}
