@@ -13,13 +13,13 @@
   * [Email Communications](about-me/portfolio/email-communications.md)
   * [Copywriting](about-me/portfolio/copywriting.md)
 
----
+***
 
 * [Portfolio Updates](portfolio-updates.md)
 
 ## Interests
 
+* [Consultant Work](interests/consultant-work.md)
 * [Consistency Editing](interests/agile-design-and-development.md)
 * [Diversity & Inclusion](interests/diversity-and-inclusion.md)
 * [Remote Onboarding](interests/remote-onboarding.md)
-
