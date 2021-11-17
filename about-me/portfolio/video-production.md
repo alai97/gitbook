@@ -8,19 +8,26 @@ description: >-
 
 **UChicago Admissions**
 
-{% embed url="https://www.youtube.com/watch?v=8gUJ2PzDvQ8" caption="Your Guide to the Core Curriculum" %}
+{% embed url="https://www.youtube.com/watch?v=8gUJ2PzDvQ8" %}
+Your Guide to the Core Curriculum
+{% endembed %}
 
 **Fire Escape Films**
 
-{% embed url="https://www.youtube.com/watch?v=RSrrmbcU3Gs&t=120s" caption="Coffee Naps" %}
+{% embed url="https://www.youtube.com/watch?v=RSrrmbcU3Gs&t=120s" %}
+Coffee Naps
+{% endembed %}
 
 **Spoon University**
 
-{% embed url="https://youtu.be/tX2ycG6VbGw" caption="Lemon Madeleines" %}
+{% embed url="https://youtu.be/tX2ycG6VbGw" %}
+Lemon Madeleines
+{% endembed %}
 
 
 
 
 
-{% page-ref page="video-production.md" %}
-
+{% content-ref url="video-production.md" %}
+[video-production.md](video-production.md)
+{% endcontent-ref %}

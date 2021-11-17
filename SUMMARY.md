@@ -19,7 +19,7 @@
 
 ## Interests
 
-* [Consultant Work](interests/consultant-work.md)
+* [Consultancy Work](interests/consultancy-work.md)
 * [Consistency Editing](interests/agile-design-and-development.md)
 * [Diversity & Inclusion](interests/diversity-and-inclusion.md)
 * [Remote Onboarding](interests/remote-onboarding.md)
