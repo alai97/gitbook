@@ -6,6 +6,12 @@ description: >-
 
 # UX Writing
 
+**Datadog**
+
+{% embed url="https://docs.datadoghq.com" %}
+Docs Landing Page
+{% endembed %}
+
 **AppDynamics**
 
 {% embed url="https://docs.google.com/document/d/1EbFG8IJph-QfLedKZDoRVPce0ZDkysRjZMmSIDmdfKk/edit?usp=sharing" %}
