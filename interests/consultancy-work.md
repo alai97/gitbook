@@ -2,7 +2,7 @@
 
 **Nakji**
 
-Workshopped the company's mission statement and edited a one pager about the value proposition in the blockchain industry.** **
+Workshopped the company's mission statement and edited a one pager about the value proposition in the blockchain industry. ****&#x20;
 
 **UChicago Alumni PRIDE**
 

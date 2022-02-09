@@ -8,9 +8,11 @@ description: >-
 
 **Datadog**
 
-{% embed url="https://docs.datadoghq.com" %}
-Docs Landing Page
-{% endembed %}
+I audited the [Docs landing page](https://docs.datadoghq.com) for consistency nits and rewrote microcopy for my 2021 Docs Hackathon project.&#x20;
+
+![Docs Landing Page After](<../../.gitbook/assets/docs landing page after (1).png>)
+
+![Docs Landing Page Before](<../../.gitbook/assets/docs landing page before (1).png>)
 
 **AppDynamics**
 
